@@ -1,17 +1,24 @@
 {
-  "name": "quiz-digitalbanking",
+  "name": "uts-backend-digital-banking",
   "version": "1.0.0",
-  "description": "uts digital-banking backend",
-  "license": "ISC",
-  "author": "juliet",
-  "type": "commonjs",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherylNataniaTan/UTS-BACKEND-DIGITAL-BANKING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CherylNataniaTan/UTS-BACKEND-DIGITAL-BANKING/issues"
+  },
+  "homepage": "https://github.com/CherylNataniaTan/UTS-BACKEND-DIGITAL-BANKING#readme",
   "dependencies": {
-    "dotenv": "^17.4.2",
-    "mongoose": "^9.5.0",
-    "nodemon": "^3.1.14"
+    "express": "^5.2.1"
   }
 }
